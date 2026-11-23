@@ -1,0 +1,10 @@
+{
+  "name": "KasbKompas — kelajagingni kashf et",
+  "short_name": "KasbKompas",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6ff",
+  "theme_color": "#5b5ce2",
+  "description": "Qiziqishlaringizni aniqlang va sizga mos kasblarni kashf eting.",
+  "icons": []
+}
